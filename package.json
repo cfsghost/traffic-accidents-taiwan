@@ -1,0 +1,30 @@
+{
+  "name": "traffic-accidents-taiwan",
+  "version": "1.0.0",
+  "description": "fetch traffic accidents data for Taiwan",
+  "main": "./lib/traffic-accidents.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfsghost/traffic-accidents-taiwan.git"
+  },
+  "keywords": [
+    "traffic",
+    "taiwan"
+  ],
+  "author": "Fred Chien <cfsghost@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cfsghost/traffic-accidents-taiwan/issues"
+  },
+  "homepage": "https://github.com/cfsghost/traffic-accidents-taiwan#readme",
+  "dependencies": {
+    "csv": "^1.1.1",
+    "moment": "^2.18.1",
+    "multipipe": "^1.0.2",
+    "request": "^2.81.0",
+    "scanf": "^0.7.3"
+  }
+}
