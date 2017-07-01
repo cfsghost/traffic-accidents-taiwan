@@ -2,8 +2,6 @@
 
 Node.js module to fetch and parse traffic accidents data for Taiwan.
 
-這個 Node.js 模組讓你可以從最棒棒的中央氣象局取得全台灣天氣資料。
-
 [![NPM](https://nodei.co/npm/traffic-accidents-taiwan.png)](https://nodei.co/npm/traffic-accidents-taiwan/)
 
 ## Installation
